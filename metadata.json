@@ -1,0 +1,6 @@
+{
+  "name": "Ingeniería de Prompts: Juego de Evaluación de Contratos LCSP",
+  "description": "Un juego interactivo que demuestra metodologías óptimas de ingeniería de prompts para evaluar ofertas de contratos del sector público, basado en las directrices de la LCSP española. Aprende Mapeo de Tareas, IA Constitucional, Encadenamiento de Prompts y Aprendizaje 'Few-Shot'.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
